@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+.subject {
+    border: 2px solid white;
+    padding: 2px;
+    margin: 10px;
+}
+
+/* Color */
+
+.Color {
+    border: 2px solid white;
+    padding: 2px;
+    margin: 10px;
+}
+
+th,
+td {
+  border: 1px solid white;
+  padding: 5px;
+  color: white;
+}
+
+#deepskyblue {
+  background-color: deepskyblue;
+}
+
+#blueviolet {
+  background-color: blueviolet;
+}
+
+#lightyellow3 {
+  color: black;
+  background-color: #FFFF66;
+}
+
+#dimgray {
+ background-color: dimgray;
+}
+
+/* Font */
+
+.font-container {
+  width: 45%;
+  display: inline-block;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.Cardo {
+  font-family: 'Cardo', 'Work Sans', sans-serif;
+}
+
+.Poppins {
+  font-family: 'Poppins', 'Work Sans', sans-serif;
+}
+
+.Caveat {
+  font-family: 'Caveat', 'Work Sans', sans-serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+/* Text Styles */
+.h1 {
+  text-align: left;
+}
+
+.h2 {
+  text-align: left;
+  color: white;
+}
